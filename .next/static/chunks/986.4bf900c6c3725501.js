@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[986],{986:function(a){a.exports={style:{fontFamily:"'__Montserrat_5bea56', '__Montserrat_Fallback_5bea56'",fontStyle:"normal"},className:"__className_5bea56",variable:"__variable_5bea56"}}}]);
